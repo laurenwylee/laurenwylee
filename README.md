@@ -2,7 +2,7 @@
 
 I'm a student at Yale pursuing a B.S./M.S. in Computer Science. I am currently a Software Engineering Intern at Dow Jones.
 
-You can reach me at lauren.lee.ll2243@yale.edu, or check out my [resume](https://github.com/laurenwylee/Resume/blob/main/lauren_lee_resume.pdf)
+You can reach me at lauren.lee.ll2243@yale.edu, or check out my [resume](https://github.com/laurenwylee/Resume/blob/main/lauren_lee_resume.pdf).
 
 <p align="left">
    <a href="https://www.linkedin.com/in/laurenwylee/">
