@@ -1,4 +1,4 @@
-# Lauren Lee
+# Hi! I am Lauren Lee
 **`Software Engineer`**
 
 I'm a student at Yale pursuing a B.S./M.S. in Computer Science. I am currently a Software Engineering Intern at Dow Jones. 
@@ -46,3 +46,5 @@ I'm a student at Yale pursuing a B.S./M.S. in Computer Science. I am currently a
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+[![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurenwylee)](https://github.com/laurenwylee/github-readme-stats)
