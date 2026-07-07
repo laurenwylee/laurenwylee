@@ -2,13 +2,15 @@
 
 I'm a student at Yale pursuing a B.S./M.S. in Computer Science. I am currently a Software Engineering Intern at Dow Jones.
 
-You can reach me at lauren.lee.ll2243@yale.edu, or check out my [resume](https://github.com/laurenwylee/Resume/blob/main/lauren_lee_resume.pdf)
+You can reach me at lauren.lee.ll2243@yale.edu, or check out my [resume](https://github.com/laurenwylee/Resume/blob/main/lauren_lee_resume.pdf).
 
 <p align="left">
+   <a href="https://laurenwylee.com" target="_blank" rel="noopener noreferrer">
+      <img alt="portfolio" title="Check out my Portfolio" src="https://custom-icon-badges.demolab.com/badge/Portfolio-000000?style=for-the-badge&logo=browser&logoColor=white"/></a>
    <a href="https://www.linkedin.com/in/laurenwylee/" target="_blank" rel="noopener noreferrer">
       <img alt="linkedin" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
    <a href="https://github.com/laurenwylee" target="_blank" rel="noopener noreferrer">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/alfredscyriac?color=EC4899&labelColor=BE185D&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/laurenwylee?color=EC4899&labelColor=BE185D&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 ---
