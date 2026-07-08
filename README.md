@@ -1,6 +1,6 @@
 # Lauren Lee
 
-I'm a student at Yale pursuing a B.S./M.S. in Computer Science. I am currently a Software Engineering Intern at Dow Jones.
+I'm a student at Yale pursuing a B.S./M.S. in Computer Science. I am currently a Software Engineering Intern at Dow Jones. test test test
 
 You can reach me at lauren.lee.ll2243@yale.edu, or check out my [resume](https://github.com/laurenwylee/Resume/blob/main/lauren_lee_resume.pdf).
 
